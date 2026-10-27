@@ -38,7 +38,7 @@ const z3n = {
 ## ✦ stuff i use
 
 <p>
-  <a href="https://claude.com/claude-code"><img alt="Claude Code" src="assets/claude-code.svg" height="36"></a>
+  <a href="https://claude.com/claude-code"><img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-1e1e2e?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMyA4IiBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxwYXRoIGZpbGw9IiNEOTc3NTciIGQ9Ik0yIDBoOXY2SDJ6TTAgMmgydjJIMHpNMTEgMmgydjJoLTJ6TTIgNmgxdjJIMnpNNCA2aDF2Mkg0ek04IDZoMXYySDh6TTEwIDZoMXYyaC0xeiIvPjxwYXRoIGZpbGw9IiMwMDAiIGQ9Ik00IDFoMXYySDR6TTggMWgxdjJIOHoiLz48L3N2Zz4%3D"></a>
 </p>
 
 <p>
