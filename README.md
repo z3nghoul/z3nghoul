@@ -28,7 +28,7 @@ const z3n = {
   role:      "software engineering student",
   location:  "somewhere in ukraine",
   pronouns:  "he/him",
-  fuel:      ["monster", "another monster"],
+  fuel:      ["monster", "another monster", "yet another monster..."],
   sleep:     null,            // 404: sleep not found
   timezone:  "Europe/Kyiv",   // UTC+2, UTC+3 in summer
   building:  "z3n1337.dev",   // a tiny pixel night sky with my links in it
