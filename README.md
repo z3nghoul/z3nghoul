@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://z3n1337.dev">
-    <img src="assets/header.svg" alt="z3n — software engineering student, chronically monster-pilled, nya/meow :3" width="100%">
+    <img src="assets/header.svg" alt="z3n — software engineering student, chronically monster-pilled" width="100%">
   </a>
 </p>
 
 <p align="center">
   <a href="https://z3n1337.dev">
-    <img alt="splash" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=2600&pause=900&color=CBA6F7&center=true&vCenter=true&width=520&height=40&lines=tactical+reload;my+pronouns+are+nya%2Fmeow;404%3A+sleep+not+found;caffeine+speedrun+any%25;i'll+fix+it+tomorrow+(i+won't);touch+grass%3F+in+this+economy%3F;tail+goes+swish;press+F+to+pay+respects">
+    <img alt="splash" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=2600&pause=900&color=CBA6F7&center=true&vCenter=true&width=520&height=40&lines=tactical+reload;404%3A+sleep+not+found;caffeine+speedrun+any%25;i'll+fix+it+tomorrow+(i+won't);touch+grass%3F+in+this+economy%3F;tail+goes+swish;press+F+to+pay+respects">
   </a>
 </p>
 
@@ -27,7 +27,7 @@ const z3n = {
   aka:       ["z3n", "z3n1337", "z3n_ghoul", "elf"],
   role:      "software engineering student",
   location:  "somewhere in ukraine",
-  pronouns:  "nya/meow",
+  pronouns:  "he/him",
   fuel:      ["monster", "another monster"],
   sleep:     null,            // 404: sleep not found
   timezone:  "Europe/Kyiv",   // UTC+2, UTC+3 in summer
