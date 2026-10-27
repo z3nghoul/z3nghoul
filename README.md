@@ -38,7 +38,7 @@ const z3n = {
 ## ✦ my coding buddy
 
 <p align="center">
-  <a href="https://claude.com/claude-code"><img alt="Clawd, the Claude Code mascot, saying: hi, it's me :3" src="assets/clawd.svg" width="520"></a>
+  <a href="https://claude.com/claude-code"><img alt="Clawd, the Claude Code mascot, saying: hi, it's me :3" src="assets/clawd-vibing.svg" width="520"></a>
 </p>
 
 ## ✦ stuff i use
