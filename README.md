@@ -38,6 +38,10 @@ const z3n = {
 ## ✦ stuff i use
 
 <p>
+  <a href="https://claude.com/claude-code"><img alt="Claude Code" src="assets/claude-code.svg" height="36"></a>
+</p>
+
+<p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-1e1e2e?style=flat-square&logo=html5&logoColor=fab387">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1e1e2e?style=flat-square&logo=css&logoColor=89b4fa">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=f9e2af">
