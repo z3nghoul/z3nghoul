@@ -76,8 +76,8 @@ const z3n = {
 ## ✦ stats
 
 <p align="center">
-  <img height="165" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=z3nghoul&show_icons=true&hide_border=true&theme=catppuccin_mocha&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4">
-  <img height="165" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3nghoul&layout=compact&hide_border=true&theme=catppuccin_mocha&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=z3nghoul&show_icons=true&hide=contribs&line_height=32&hide_border=true&theme=catppuccin_mocha&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4">
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3nghoul&langs_count=3&hide_border=true&theme=catppuccin_mocha&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4">
 </p>
 
 ---
