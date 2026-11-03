@@ -64,6 +64,43 @@ def embed(path: pathlib.Path) -> None:
     path.write_text(svg, encoding="utf-8")
 
 
+ROOT_SIZE = re.compile(r'(<svg\s+width="(\d+)"\s+height=")(\d+)("\s+viewBox=")[-\d.]+ [-\d.]+ (\d+) (\d+)(")')
+CARD_BG_Y = re.compile(r'(data-testid="card-bg"[^>]*?\sy=")([-\d.]+)(")', re.S)
+
+
+def height(path: pathlib.Path) -> int:
+    match = ROOT_SIZE.search(path.read_text(encoding="utf-8"))
+    if not match:
+        sys.exit(f"{path}: no root <svg> size to read")
+    return int(match.group(3))
+
+
+def match_height(path: pathlib.Path, target: int) -> None:
+    """Grow a card to `target` px and keep its content centred vertically.
+
+    The background rect is drawn at 99% of the card height, so it grows with
+    the card; the view box is moved up by half the extra space and the rect
+    follows it, so the content sits in the middle instead of at the top.
+    """
+    svg = path.read_text(encoding="utf-8")
+    current = height(path)
+    if current >= target:
+        return
+    shift = (target - current) / 2
+    svg = ROOT_SIZE.sub(
+        lambda m: f"{m.group(1)}{target}{m.group(4)}0 {-shift:g} {m.group(5)} {target}{m.group(7)}",
+        svg,
+        count=1,
+    )
+    svg = CARD_BG_Y.sub(lambda m: f"{m.group(1)}{float(m.group(2)) - shift:g}{m.group(3)}", svg, count=1)
+    path.write_text(svg, encoding="utf-8")
+
+
 if __name__ == "__main__":
-    for arg in sys.argv[1:]:
-        embed(pathlib.Path(arg))
+    paths = [pathlib.Path(arg) for arg in sys.argv[1:]]
+    for path in paths:
+        embed(path)
+    # Cards shown side by side get one height: the tallest one's.
+    tallest = max(height(path) for path in paths)
+    for path in paths:
+        match_height(path, tallest)
