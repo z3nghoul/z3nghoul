@@ -54,9 +54,6 @@ const z3n = {
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-1e1e2e?style=flat-square&logo=githubactions&logoColor=89b4fa">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-1e1e2e?style=flat-square&logo=github&logoColor=cdd6f4">
   <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-1e1e2e?style=flat-square&logo=cloudflare&logoColor=fab387">
-  <img alt="CachyOS" src="https://img.shields.io/badge/CachyOS-1e1e2e?style=flat-square&logo=cachyos&logoColor=94e2d5">
-  <img alt="KDE Plasma" src="https://img.shields.io/badge/KDE_Plasma-1e1e2e?style=flat-square&logo=kdeplasma&logoColor=74c7ec">
-  <img alt="fish" src="https://img.shields.io/badge/fish-1e1e2e?style=flat-square&logo=fishshell&logoColor=a6e3a1">
 </p>
 
 ## ✦ featured
