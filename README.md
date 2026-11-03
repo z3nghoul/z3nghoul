@@ -45,7 +45,6 @@ const z3n = {
 
 <p>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-1e1e2e?style=flat-square&logo=rust&logoColor=fab387">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1e1e2e?style=flat-square&logo=cplusplus&logoColor=89b4fa">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=f9e2af">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-1e1e2e?style=flat-square&logo=html5&logoColor=fab387">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1e1e2e?style=flat-square&logo=css&logoColor=89b4fa">
