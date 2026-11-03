@@ -44,13 +44,19 @@ const z3n = {
 ## ✦ stuff i use
 
 <p>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-1e1e2e?style=flat-square&logo=rust&logoColor=fab387">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1e1e2e?style=flat-square&logo=cplusplus&logoColor=89b4fa">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=f9e2af">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-1e1e2e?style=flat-square&logo=html5&logoColor=fab387">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1e1e2e?style=flat-square&logo=css&logoColor=89b4fa">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=f9e2af">
   <img alt="WebGL" src="https://img.shields.io/badge/WebGL-1e1e2e?style=flat-square&logo=webgl&logoColor=cba6f7">
-  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-1e1e2e?style=flat-square&logo=cloudflare&logoColor=fab387">
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-1e1e2e?style=flat-square&logo=github&logoColor=cdd6f4">
   <img alt="Git" src="https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=f38ba8">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-1e1e2e?style=flat-square&logo=githubactions&logoColor=89b4fa">
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-1e1e2e?style=flat-square&logo=github&logoColor=cdd6f4">
+  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-1e1e2e?style=flat-square&logo=cloudflare&logoColor=fab387">
+  <img alt="CachyOS" src="https://img.shields.io/badge/CachyOS-1e1e2e?style=flat-square&logo=cachyos&logoColor=94e2d5">
+  <img alt="KDE Plasma" src="https://img.shields.io/badge/KDE_Plasma-1e1e2e?style=flat-square&logo=kdeplasma&logoColor=74c7ec">
+  <img alt="fish" src="https://img.shields.io/badge/fish-1e1e2e?style=flat-square&logo=fishshell&logoColor=a6e3a1">
 </p>
 
 ## ✦ featured
@@ -58,17 +64,22 @@ const z3n = {
 <table>
   <tr>
     <td>
-      <a href="https://github.com/z3nghoul/z3n1337.dev">
-        <img src="https://raw.githubusercontent.com/z3nghoul/z3n1337.dev/main/.github/assets/preview-desktop.webp" alt="z3n1337.dev preview">
+      <a href="https://github.com/z3nghoul/repo-sniff">
+        <img src="https://raw.githubusercontent.com/z3nghoul/repo-sniff/main/docs/demo.gif" alt="repo-sniff scanning a demo project and rust-lang/cargo in a terminal">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/z3nghoul/z3n1337.dev">z3n1337.dev</a></b> · my landing page.
-      a WebGL pixel sky with flickering stars and shooting stars, live Steam status,
-      Last.fm "now playing" with a playable preview, wobbly cat ears and a few easter eggs.
-      no frameworks, no build step :3
+      <b><a href="https://github.com/z3nghoul/repo-sniff">repo-sniff</a></b> · sniff a repository before you run it.
+      a static scanner in rust that looks for malicious code in a github repo
+      before you <code>npm install</code> it, open it in vs code or build it, and never runs a thing from it.
+      21 rules: trojan source, vs code auto-run tasks, npm hooks, python <code>.pth</code>, obfuscated js loaders,
+      powershell droppers, disguised <code>.exe</code>. 0 false criticals on ripgrep, cargo, vscode, node and react.
+      <br><br>
+      <a href="https://github.com/z3nghoul/repo-sniff/releases/tag/v0.1.0"><img alt="release" src="https://img.shields.io/badge/release-v0.1.0_alpha-cba6f7?style=flat-square&labelColor=1e1e2e"></a>
+      <img alt="Rust" src="https://img.shields.io/badge/rust-2024-fab387?style=flat-square&labelColor=1e1e2e&logo=rust&logoColor=fab387">
+      <img alt="AGPL-3.0" src="https://img.shields.io/badge/license-AGPL--3.0-a6adc8?style=flat-square&labelColor=1e1e2e">
     </td>
   </tr>
 </table>
