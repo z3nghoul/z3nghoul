@@ -82,8 +82,8 @@ const z3n = {
 ## ✦ stats
 
 <p align="center">
-  <img alt="github stats" src="assets/stats.svg">
-  <img alt="top languages" src="assets/top-langs.svg">
+  <img alt="github stats" src="assets/stats.svg" align="top">
+  <img alt="top languages" src="assets/top-langs.svg" align="top">
 </p>
 
 ---
