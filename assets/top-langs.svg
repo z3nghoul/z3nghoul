@@ -1,8 +1,8 @@
 
       <svg
         width="360"
-        height="140"
-        viewBox="0 0 360 140"
+        height="165"
+        viewBox="0 -12.5 360 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -100,7 +100,7 @@
           data-testid="card-bg"
           class="card-bg"
           x="0.5"
-          y="0.5"
+          y="-12"
           rx="10"
           height="99%"
           stroke="#e4e2e2"
