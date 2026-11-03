@@ -17,7 +17,7 @@ permissions:
 
 concurrency:
   group: stats-cards
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   cards:
@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
-          options: username=z3nghoul&show_icons=true&hide=contribs&line_height=32&hide_border=true&theme=catppuccin_mocha&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4
+          options: username=z3nghoul&custom_title=activity&show_icons=true&hide=stars,contribs&hide_rank=true&line_height=30&card_width=360&icon_color=cba6f7&hide_border=true&border_radius=10&theme=catppuccin_mocha&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&disable_animations=true
           path: assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           # empty: use the core package bundled with the action (frozen lockfile)
@@ -41,7 +41,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
-          options: username=z3nghoul&langs_count=3&hide_border=true&theme=catppuccin_mocha&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4
+          options: username=z3nghoul&custom_title=languages&layout=compact&langs_count=4&card_width=360&hide_border=true&border_radius=10&theme=catppuccin_mocha&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&disable_animations=true
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           core_version: ""
@@ -53,5 +53,6 @@ jobs:
           git add assets/stats.svg assets/top-langs.svg
           if ! git diff --cached --quiet; then
             git commit -m "stats: refresh cards"
+            git pull --rebase origin main
             git push
           fi
