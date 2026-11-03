@@ -50,7 +50,6 @@ const z3n = {
   <img alt="HTML" src="https://img.shields.io/badge/HTML-1e1e2e?style=flat-square&logo=html5&logoColor=fab387">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1e1e2e?style=flat-square&logo=css&logoColor=89b4fa">
   <img alt="WebGL" src="https://img.shields.io/badge/WebGL-1e1e2e?style=flat-square&logo=webgl&logoColor=cba6f7">
-  <img alt="Git" src="https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=f38ba8">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-1e1e2e?style=flat-square&logo=githubactions&logoColor=89b4fa">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-1e1e2e?style=flat-square&logo=github&logoColor=cdd6f4">
   <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-1e1e2e?style=flat-square&logo=cloudflare&logoColor=fab387">
