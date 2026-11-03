@@ -10,7 +10,10 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [.github/workflows/stats.yml]
+    paths:
+      - .github/workflows/stats.yml
+      - .github/scripts/embed_font.py
+      - assets/fonts/**
 
 permissions:
   contents: write
@@ -45,6 +48,9 @@ jobs:
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           core_version: ""
+
+      - name: embed jetbrains mono
+        run: python3 .github/scripts/embed_font.py assets/stats.svg assets/top-langs.svg
 
       - name: commit cards
         run: |
