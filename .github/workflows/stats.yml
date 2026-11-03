@@ -17,7 +17,7 @@ permissions:
 
 concurrency:
   group: stats-cards
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   cards:
@@ -53,5 +53,6 @@ jobs:
           git add assets/stats.svg assets/top-langs.svg
           if ! git diff --cached --quiet; then
             git commit -m "stats: refresh cards"
+            git pull --rebase origin main
             git push
           fi
