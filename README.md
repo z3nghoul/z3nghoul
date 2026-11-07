@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://z3n1337.dev">
-    <img src="assets/header.svg" alt="z3n — software engineering student, chronically monster-pilled" width="100%">
+    <img src="assets/sky.svg" alt="z3n — software engineering student, chronically monster-pilled" width="100%">
   </a>
 </p>
 
