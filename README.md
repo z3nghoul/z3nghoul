@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://z3n1337.dev">
-    <img alt="splash" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=2600&pause=900&color=CBA6F7&center=true&vCenter=true&width=600&height=40&lines=tactical+reload;alt%2Bf4+yourself;my+kda+is+a+work+of+art;it%27s+fine;in+my+flop+era;certified+catboy+moment;disconnected+from+reality;currently+vibecoding">
+    <img alt="splash" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=2600&pause=900&color=CBA6F7&center=true&vCenter=true&width=600&height=40&lines=it%27s+dangerous+to+go+alone;Try+again;6am+is+just+early+morning+right;currently+winning+ranked;caffeine+speedrun+any%25;main+character+syndrome+%28self-diagnosed%29;i+have+a+type%3A+fictional;the+numbers+mason%2C+what+do+they+mean">
   </a>
 </p>
 
