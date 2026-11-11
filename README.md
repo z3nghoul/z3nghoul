@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://z3n1337.dev">
-    <img alt="splash" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=2600&pause=900&color=CBA6F7&center=true&vCenter=true&width=600&height=40&lines=don%27t+worry%2C+everything+will+be+fine;went+to+bed+yesterday+%28this+week%29;catboys+are+valid+actually;W+rizz%2C+L+sleep+schedule;my+kda+is+a+work+of+art;my+timezone+is+4am;my+build+is+broken+%28in+a+good+way%29;git+gud">
+    <img alt="splash" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=2600&pause=900&color=CBA6F7&center=true&vCenter=true&width=600&height=40&lines=pressing+W+in+real+life;respawn+in+3...+2...+1...;all+your+base+are+belong+to+us;this+is+fine;don%27t+worry%2C+everything+will+be+fine;uninstalling+feelings;now+with+20%25+more+nya;loading...+please+wait">
   </a>
 </p>
 
