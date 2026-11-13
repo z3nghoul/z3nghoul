@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://z3n1337.dev">
-    <img alt="splash" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=2600&pause=900&color=CBA6F7&center=true&vCenter=true&width=600&height=40&lines=why+do+you+hate+the+future%3F;W+rizz%2C+L+sleep+schedule;not+a+bug%2C+a+feature;disconnected+from+reality;i+eat+lag+for+breakfast;gamer+with+cat+ears%2C+what+of+it;niko%2C+let%27s+go+bowling;git+gud">
+    <img alt="splash" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=2600&pause=900&color=CBA6F7&center=true&vCenter=true&width=600&height=40&lines=top+fragging+professionally;my+build+is+broken+%28in+a+good+way%29;the+floor+is+lava+%28literally%29;monster+energy+is+a+personality;perfectly+balanced+as+all+things+should+be;don%27t+make+a+girl+a+promise;sleep+deprivation;it%27s+not+a+phase+mom+it%27s+a+lifestyle">
   </a>
 </p>
 
