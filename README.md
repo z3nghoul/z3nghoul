@@ -29,7 +29,7 @@ const z3n = {
   location:  "somewhere in ukraine",
   pronouns:  "he/him",
   fuel:      ["monster", "another monster", "yet another monster..."],
-  sleep:     null,            // 404: sleep not found
+  sleep:     "undefined",
   timezone:  "Europe/Kyiv",   // UTC+2, UTC+3 in summer
   building:  "z3n1337.dev",   // a tiny pixel night sky with my links in it
 };
@@ -69,15 +69,18 @@ const z3n = {
       <b><a href="https://github.com/z3nghoul/repo-sniff">repo-sniff</a></b> · sniff a repository before you run it.
       a static scanner in rust that looks for malicious code in a github repo
       before you <code>npm install</code> it, open it in vs code or build it, and never runs a thing from it.
-      21 rules: trojan source, vs code auto-run tasks, npm hooks, python <code>.pth</code>, obfuscated js loaders,
-      powershell droppers, disguised <code>.exe</code>. 0 false criticals on ripgrep, cargo, vscode, node and react.
+      <br><br>
+      saw a video of people going "github can't have viruses because it's open source" and decided to build my own thing that quickly shows all the sketchy stuff.
+      <br><br>
+      21 rules so far, including trojan source, vs code auto-run tasks and npm hooks. 70+ planned, still in development.
+      0 false criticals on ripgrep, cargo, vscode, node and react.
       <br><br>
       <a href="https://github.com/z3nghoul/repo-sniff/releases/tag/v0.1.0"><img alt="release" src="https://img.shields.io/badge/release-v0.1.0_alpha-cba6f7?style=flat-square&labelColor=1e1e2e"></a>
       <img alt="Rust" src="https://img.shields.io/badge/rust-2024-fab387?style=flat-square&labelColor=1e1e2e&logo=rust&logoColor=fab387">
       <img alt="AGPL-3.0" src="https://img.shields.io/badge/license-AGPL--3.0-a6adc8?style=flat-square&labelColor=1e1e2e">
     </td>
   </tr>
-</table>
+</table>  
 
 ## ✦ stats
 
