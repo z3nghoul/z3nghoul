@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://z3n1337.dev">
-    <img alt="splash" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=2600&pause=900&color=CBA6F7&center=true&vCenter=true&width=600&height=40&lines=my+timezone+is+4am;he%27s+actually+sleep-deprived+btw;i+use+arch+btw;W+rizz%2C+L+sleep+schedule;no+skill+issue+here;wake+me...+when+you+need+me;one+more+game+%28it%27s+4am%29;404%3A+sleep+not+found">
+    <img alt="splash" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=2600&pause=900&color=CBA6F7&center=true&vCenter=true&width=600&height=40&lines=no+skill+issue+here;you+died;now+with+20%25+more+nya;don%27t+worry%2C+everything+will+be+fine;sleep+is+a+myth;new+phone+who+dis;chronically+online;tactical+reload">
   </a>
 </p>
 
