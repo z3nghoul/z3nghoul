@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://z3n1337.dev">
-    <img alt="splash" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=2600&pause=900&color=CBA6F7&center=true&vCenter=true&width=600&height=40&lines=high+on+mana%2C+low+on+cope;my+build+is+broken+%28in+a+good+way%29;went+for+water+and+never+came+back;dopamine+deficiency;tactical+reload;gamer+with+cat+ears%2C+what+of+it;certified+catboy+moment;crying+in+144hz">
+    <img alt="splash" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=22&duration=2600&pause=900&color=CBA6F7&center=true&vCenter=true&width=600&height=40&lines=went+for+water+and+never+came+back;certified+brainrot+moment;a+python-free+environment%21;main+character+syndrome+%28self-diagnosed%29;i+have+a+type%3A+fictional;dopamine+deficiency;probably+crying+rn;pressing+W+in+real+life">
   </a>
 </p>
 
