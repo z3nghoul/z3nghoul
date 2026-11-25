@@ -142,7 +142,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="251.42"
+          width="248.6"
           height="8"
           fill="#dea584"
         />
@@ -150,9 +150,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="251.42"
+          x="248.6"
           y="0"
-          width="38.1"
+          width="41.15"
           height="8"
           fill="#f34b7d"
         />
@@ -160,9 +160,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="289.52"
+          x="289.75"
           y="0"
-          width="14.26"
+          width="14.1"
           height="8"
           fill="#f1e05a"
         />
@@ -170,9 +170,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="303.78"
+          x="303.85"
           y="0"
-          width="16.23"
+          width="16.16"
           height="8"
           fill="#aace60"
         />
@@ -183,28 +183,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 81.10%
+        Rust 80.19%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 12.29%
+        C++ 13.27%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 4.60%
+        JavaScript 4.55%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#aace60" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HLSL 2.01%
+        HLSL 1.99%
       </text>
     </g>
   </g></g>
